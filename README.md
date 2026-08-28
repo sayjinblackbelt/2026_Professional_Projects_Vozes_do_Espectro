@@ -239,7 +239,9 @@ Este repositório funciona simultaneamente como:
 - **Google Planilhas** — organização, dados e atividades práticas;
 - **Google Apresentações** — apresentações profissionais;
 - **Canva** — comunicação visual e design;
-- **ChatGPT** — organização, produção, revisão e apoio à produtividade;
+- **ChatGPT** — organização, produção, revisão e apoio à produtividade, incluindo criação de agente administrativo personalizado;
+- **Manus IA / Manus Slides** — geração inicial de apresentações a partir de briefings e prompts;
+- **Canva** — design, comunicação visual e criação/edição de apresentações, incluindo recursos de IA;
 - **Inteligência Artificial** — prompts, análise crítica e revisão humana;
 - **GitHub** — documentação e organização deste case.
 
