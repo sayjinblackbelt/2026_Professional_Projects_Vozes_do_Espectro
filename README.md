@@ -218,3 +218,106 @@ Este repositório funciona simultaneamente como:
 - biblioteca de materiais reutilizáveis.
 
 **Tecnologia não é apenas domínio de ferramentas. É capacidade de compreender, criar, organizar, comunicar e transformar conhecimento em ação.**
+
+
+---
+
+# 🛠️ Tecnologias e ferramentas
+
+<div align="center">
+
+![Google Workspace](https://img.shields.io/badge/Google%20Workspace-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+</div>
+
+### Ecossistema trabalhado
+
+- **Google Documentos** — produção e organização de documentos;
+- **Google Planilhas** — organização, dados e atividades práticas;
+- **Google Apresentações** — apresentações profissionais;
+- **Canva** — comunicação visual e design;
+- **ChatGPT** — organização, produção, revisão e apoio à produtividade;
+- **Inteligência Artificial** — prompts, análise crítica e revisão humana;
+- **GitHub** — documentação e organização deste case.
+
+---
+
+# 🧠 Competências desenvolvidas
+
+## Hard Skills
+
+| Competência | Aplicação |
+|---|---|
+| Ferramentas digitais | Uso de recursos para demandas profissionais |
+| Documentos | Produção e revisão de conteúdos |
+| Planilhas | Organização e manipulação de informações |
+| Apresentações | Comunicação visual e estrutura narrativa |
+| Design | Hierarquia visual, cores e tipografia |
+| Inteligência Artificial | Prompts, produtividade e organização |
+| Segurança digital | Uso consciente e responsável das informações |
+
+## Soft Skills
+
+- Comunicação;
+- Organização;
+- Planejamento;
+- Autonomia;
+- Pensamento crítico;
+- Criatividade;
+- Resolução de problemas;
+- Adaptabilidade;
+- Apresentação em público.
+
+---
+
+# ⭐ Case em destaque
+
+## Tecnologia + Educação + IA + Inclusão
+
+Este projeto demonstra uma abordagem integrada para desenvolvimento profissional.
+
+A tecnologia foi utilizada não apenas como conteúdo, mas como ferramenta para:
+
+> **Organizar → Criar → Comunicar → Resolver → Refletir → Aplicar**
+
+### Evidências do percurso
+
+📚 Planejamento pedagógico estruturado
+
+💻 Atividades práticas com ferramentas reais
+
+🤖 Uso aplicado da Inteligência Artificial
+
+🎨 Desenvolvimento de comunicação visual
+
+📊 Avaliação de competências
+
+🚀 Projetos integradores
+
+🗣️ Apresentações profissionais
+
+📈 Relatos de aplicação no contexto profissional
+
+---
+
+# 🔗 Navegação rápida
+
+- [📊 Resultados e Impacto](./08_Resultados/)
+- [🤖 Biblioteca de Prompts de IA](./06_Prompts_IA/)
+- [🚀 Projetos Integradores](./07_Projetos/)
+- [📚 Planos de Aula](./03_Planos_de_Aula/)
+- [🧭 Planejamento](./02_Planejamento/)
+- [👨‍🏫 Materiais do Educador](./04_Materiais_Educador/)
+
+---
+
+## 💡 Valor para portfólio
+
+Este repositório apresenta experiência prática em:
+
+**Educação Profissional • Tecnologia Educacional • Inteligência Artificial • Design • Comunicação • Planejamento Pedagógico • Avaliação de Competências • Inclusão**
+
+Pode ser utilizado como referência para futuras iniciativas de formação profissional, educação tecnológica e projetos que integrem competências digitais ao desenvolvimento humano.
