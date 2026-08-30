@@ -1,5 +1,7 @@
 # Vozes do Espectro — Tecnologia, Autonomia e Desenvolvimento Profissional
 
+🇧🇷 Português | [🇺🇸 English](README.en.md) | [🇪🇸 Español](README.es.md)
+
 > Documentação pedagógica, resultados e projetos desenvolvidos no percurso de **Informática e Tecnologia** do Projeto Vozes do Espectro.
 
 ## Visão geral
