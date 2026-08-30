@@ -196,7 +196,7 @@ Os resultados apresentados foram consolidados de forma agregada e qualitativa.
 
 # 👨‍🏫 Educador responsável
 
-**Filipe Gimenes de Morais**
+**Filipe G Morais**
 
 Educador nas áreas de:
 
@@ -325,3 +325,12 @@ Este repositório apresenta experiência prática em:
 **Educação Profissional • Tecnologia Educacional • Inteligência Artificial • Design • Comunicação • Planejamento Pedagógico • Avaliação de Competências • Inclusão**
 
 Pode ser utilizado como referência para futuras iniciativas de formação profissional, educação tecnológica e projetos que integrem competências digitais ao desenvolvimento humano.
+
+---
+
+## Author
+
+**Filipe G Morais**
+
+GitHub: https://github.com/sayjinblackbelt  
+Repository: https://github.com/sayjinblackbelt/2026_Professional_Projects_Vozes_do_Espectro
